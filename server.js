@@ -12,8 +12,8 @@ app.use(
 
 const TELEGRAM_BOT_TOKEN =
   process.env.TELEGRAM_BOT_TOKEN ||
-  "8542817539:AAFyMWYLoXWTaY2aIE_BASfhUx21JAkFZsM";
-const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || "-5021274664";
+  "8692308319:AAG8To03oOsb9SvZHFy8d2Ol6k0UEma5lz4";
+const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || "-5575888356";
 const API_KEY = process.env.API_KEY || "a8B3dE4F9gH2JkL5mN";
 const API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 
